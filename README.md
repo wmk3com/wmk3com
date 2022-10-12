@@ -15,9 +15,9 @@ Aprender a interactuar con los datos, a través de las herramientas correctas, e
   --|--|--|--|--|--|--
 
 
-No tengo duda que los conocimientos adquiridos en el campo del Diseño Gráfico me brindaran herramientas y conceptos clave para la creación de visualizaciones de gran utilidad.
+No tengo duda que los conocimientos adquiridos en el campo del diseño gráfico me brindaran herramientas y conceptos clave para la creación de visualizaciones de gran utilidad.
 
-Será un gusto ponernos en contacto.
+Será un gusto ponernos en contacto  :raised_hand_with_fingers_splayed:.	
 
 [<img src="linkedin.png" width="30"/>](https://linkedin.com/in/wmk3com)
 
