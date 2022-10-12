@@ -16,7 +16,7 @@ Aprender a interactuar con los datos, a través de las herramientas correctas, e
 No tengo duda que los conocimientos adquiridos en el campo del Diseño Gráfico me brindaran herramientas y conceptos clave para la creación de visualizaciones de gran utilidad.
 
 Será un gusto ponernos en contacto.  
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
+[<img src="linkedin.png" width="50"/>](https://linkedin.com/in/wmk3com)
 
 
 ![Profile Watchers](https://img.shields.io/github/watchers/wmk3com/wmk3com?label=Profile%20Watchers&style=social)
