@@ -19,7 +19,7 @@ No tengo duda que los conocimientos adquiridos en el campo del diseño gráfico 
 
 Será un gusto ponernos en contacto  :raised_hand_with_fingers_splayed:.	
 
-[<img src="linkedin.png" width="30"/>](https://linkedin.com/in/wmk3com) [wmk3.com](https://www.wmk3.com)
+[<img src="linkedin.png" width="30"/>](https://linkedin.com/in/wmk3com)
 
 
 ![Profile Watchers](https://img.shields.io/github/watchers/wmk3com/wmk3com?label=Profile%20Watchers&style=social)
