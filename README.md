@@ -9,7 +9,7 @@ Aprender a interactuar con los datos, a través de las herramientas correctas, e
 
 
 ##### LENGUAJES Y HERRAMIENTAS
-  <img width="90%" src="https://github.com/wmk3com/wmk3com/blob/main/github.png"/>  |  <img width="90%" src="https://github.com/wmk3com/wmk3com/blob/main/mysql.png"/>  |  <img width="90%" src="https://github.com/wmk3com/wmk3com/blob/main/python.png"/>  |  <img width="90%" src="https://github.com/wmk3com/wmk3com/blob/main/sheets.png"/>  |  <img width="90%" src="https://github.com/wmk3com/wmk3com/blob/main/excel.png"/>  |  <img width="90%" src="https://github.com/wmk3com/wmk3com/blob/main/datastudio.png"/>  |  <img width="90%" src="https://github.com/wmk3com/wmk3com/blob/main/powerbi.png"/>
+  <img width="100%" src="https://github.com/wmk3com/wmk3com/blob/main/github.png"/> | <img width="100%" src="https://github.com/wmk3com/wmk3com/blob/main/mysql.png"/> |  <img width="100%" src="https://github.com/wmk3com/wmk3com/blob/main/python.png"/> | <img width="100%" src="https://github.com/wmk3com/wmk3com/blob/main/sheets.png"/> |  <img width="100%" src="https://github.com/wmk3com/wmk3com/blob/main/excel.png"/> | <img width="100%" src="https://github.com/wmk3com/wmk3com/blob/main/datastudio.png"/>  | <img width="100%" src="https://github.com/wmk3com/wmk3com/blob/main/powerbi.png"/>
   --|--|--|--|--|--|--
 
 
